@@ -11,3 +11,4 @@ Previously you either had to timestamp your data yourself (not scalable if every
 
 [1] the lightning network must switch from HTLCs to payment points and scalars
  
+Mailing List: https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002166.html
